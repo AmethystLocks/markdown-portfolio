@@ -1,1 +1,1 @@
-! (https://amethystlocks.github.io/markdown-portfolio/)
+[link to Amethyst Locks github portfolio](https://amethystlocks.github.io/markdown-portfolio/)
